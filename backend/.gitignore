@@ -1,0 +1,15 @@
+
+# dependencies
+node_modules
+
+
+# misc
+.DS_Store
+._
+.env
+backend/src/database/db.sqlite
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
