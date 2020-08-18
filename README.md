@@ -112,7 +112,7 @@ Caso deseje rodar a aplicação mobile em seu aparehlo fisico voce deverá segui
 2. Estar na mesma rede do noteboo ou computador (Seu back-end está ai)
 3. Trocar o ip do arquivo api para o que aparece na página do Expo que será aberta
 
-## :memo: Licença 
+## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
