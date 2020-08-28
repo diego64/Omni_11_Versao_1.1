@@ -124,7 +124,7 @@ Feito por **Diego Ferreira L.G.Oliveira**
 
 <a href="https://www.linkedin.com/in/diego-ferreira-a60a8a161/">
   <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-a60a8a161/">
-</a>
+</a> 
 
 <a href="https://github.com/diego64" style="margin-left: 8px;">
   <img alt="Made by leon-carvalho" src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub&logoColor=white&link=https://github.com/diego64">
